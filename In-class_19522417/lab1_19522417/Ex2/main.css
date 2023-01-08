@@ -1,0 +1,186 @@
+.hem {
+    margin-top: 60px;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 20%;
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+}
+.wrap-information {
+    margin-left: 40px;
+    font-size: 17px;
+    color: black;
+}
+.wrap-input {
+    display: flex;
+    align-items: center;
+}
+.wrap-infor {
+    font-weight: bold;
+}
+.wrap-inputinfor {
+    margin-left: 30px;
+    font-size: 17px;
+    color: black;
+}
+img {
+    height: 300px;
+} 
+.name {
+    color :black;
+    font-size: 30px;
+}
+.major {
+    color: #3712A1;
+    font-size: 20px;
+}
+/* dob {
+    color: black;
+    font-size: 5px;
+}
+gender {
+    color: black;
+    font-size: 5px;
+}
+phone {
+    color: black;
+    font-size: 5px;
+}
+email {
+    color: black;
+    font-size: 5px;
+}
+address {
+    color: black;
+    font-size: 5px;
+}
+wb {
+    color: black;
+    font-size: 5px;
+} */
+.Object {
+    margin-top: 40px;
+}
+.object-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+hr.solid {
+    border-top: 3px solid black;
+}
+.ob-infor {
+    font-size: 17px;
+}
+.education {
+    margin-top: 60px;
+}
+.education-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+hr.solid-2 {
+    border-top: 3px solid black;
+}
+.wrap-edu {
+    display: flex;
+}
+.study-year {
+    font-size: 17px;
+}
+.school-infor {
+    margin-left: 150px;
+    font-size: 17px;
+}
+.school-name {
+    font-weight: bold;
+}
+.project {
+    margin-top: 50px;
+}
+hr.solid-3 {
+    border-top: 3px solid black;
+}
+.project-title {
+    font-size: 20px;
+    font-weight: bold;
+}
+.project-name {
+    font-size: 19px;
+    font-weight: bold;
+}
+.project-year {
+    font-size: 17px;
+}
+.project-table {
+    /* width: 100%; */
+    border:1px solid black;
+    border-style: solid;
+}
+/* th {
+    border:1px solid black;
+    border-style: solid;
+} */
+td {
+    border:1px solid black;
+    border-style: solid;  
+}
+.customer {
+    font-size: 17px;
+    font-weight: bold;
+}
+.descrip {
+    font-weight: bold;
+    font-size: 17px;
+}
+.descrip-infor {
+    font-size: 17px;
+}
+.team {
+    font-size: 17px;
+    font-weight: bold;
+}
+.team-num {
+    font-size: 17px;
+}
+.position {
+    font-size: 17px;
+    font-weight: bold;
+}
+.position-infor {
+    font-size: 17px;
+}
+.Tech-use {
+    font-size: 17px;
+    font-weight: bold;
+}
+.tech-infor {
+    font-size: 17px;
+}
+.interest {
+    margin-top: 60px;
+}
+.interest-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+hr.solid-4 {
+    border-top: 3px solid black;
+}
+.inter-infor {
+    font-size: 17px;
+}
+.skill {
+    margin-top: 60px;
+}
+.skill-title {
+    font-weight: bold;
+    font-size: 20px;
+}
+hr.solid-5 {
+    border-top: 3px solid black;
+}
+.skill-infor {
+    font-size: 17px;
+}

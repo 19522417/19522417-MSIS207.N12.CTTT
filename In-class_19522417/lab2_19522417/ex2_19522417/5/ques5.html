@@ -1,0 +1,35 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+</head>
+<script>
+    var bold_Items;
+    window.onload = getBold_items();
+
+
+    function getBold_items() {
+        bold_Items = document.getElementsByTagName('strong');
+    }
+    function highlight() {
+        for (var i = 0; i < bold_Items.length; i++) {
+            bold_Items[i].style.color = "yellowgreen";
+        }
+    }
+
+    function return_normal() {
+        for (var i = 0; i < bold_Items.length; i++) {
+            bold_Items[i].style.color = "black";
+        }
+    }
+
+</script>
+
+<body>
+    <p>[<a href="#" onMouseOver="highlight()" onMouseOut="return_normal()">Di Chuot Vao Day de doi Mau (Khong An)</a>]</p>
+    <p><strong>Nguyen Thanh Truc</strong></p>
+</body>
+
+</html>
